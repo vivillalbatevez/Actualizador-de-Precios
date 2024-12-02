@@ -1,0 +1,5 @@
+usuario="tu_email@tu_empresa.com"
+contraseña="tu contraseña secreta con espacios"
+sitio="https://maximiasams.sharepoint.com/sites/BI-Maximia"
+ruta_archivo="/sites/BI-Maximia/Documentos compartidos/Act Precios/Act Precios.xlsx"
+hoja_excel="Principal"

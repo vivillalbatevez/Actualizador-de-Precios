@@ -1,0 +1,4 @@
+Conda
+pip install selenium==4.25.0 pandas==2.2.0 webdriver-manager openpyxl xlwings xlsxwriter cryptography office365-rest-python-client urllib3
+
+
